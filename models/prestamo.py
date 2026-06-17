@@ -1,4 +1,4 @@
-from models.
+from models.libro import libro
 class Prestamo:
 
     #constructor
